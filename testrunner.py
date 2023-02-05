@@ -20,4 +20,3 @@ results=testRunner.run(tests)
 #print( "results.wasSuccessful: %s" % results.wasSuccessful() )
 if results.wasSuccessful()==False:
     sys.exit(1)
-
